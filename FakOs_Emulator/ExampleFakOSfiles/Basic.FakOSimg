@@ -1,0 +1,15 @@
+﻿F!storage:
+	prog ver:
+		info=Version Information About the current OS
+		data;3
+		add inS BasicOS V0.0.1
+		run inS =-1
+		out console
+	prog quit:
+		add ?? ??
+
+P!processes:
+	mov ver prS
+	run prS ver
+
+end:

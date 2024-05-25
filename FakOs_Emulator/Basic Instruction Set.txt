@@ -1,0 +1,17 @@
+﻿Main instructions;
+
+mov - move memory
+add - add to memory
+sub - remove from memory
+mul - repeatedly do add
+
+
+-----
+
+processes stack = 0 - 64
+
+variables stack = 64 - 128
+
+functions stack = 128 - 192
+
+devices stack = 192 - 256

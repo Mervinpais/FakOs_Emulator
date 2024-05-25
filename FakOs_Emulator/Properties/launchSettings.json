@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FakOs_Emulator": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\mervi\\source\\repos\\FakOs_Emulator\\FakOs_Emulator\\ExampleFakOSfiles\\Basic.FakOSimg"
+    }
+  }
+}
