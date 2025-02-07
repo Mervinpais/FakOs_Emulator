@@ -1,2 +1,2 @@
 # FakOs_Emulator
-This project has suspended operations in favor of rebuilding from the ground up, see ![]()
+This project has suspended operations in favor of rebuilding from the ground up, see ![HoryzenRunner](https://github.com/Mervinpais/HoryzonRunner), a new and re-envisioned version of F-OS
